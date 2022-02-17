@@ -1,0 +1,1 @@
+AddTextEntry("WEAPON_PMXFM", "Beretta PMX")
